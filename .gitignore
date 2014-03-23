@@ -20,3 +20,9 @@ gen/
 
 # Local configuration file (sdk path, etc)
 local.properties
+
+# Android Studio
+*.iml
+
+# Mac OS X
+.DS_Store
