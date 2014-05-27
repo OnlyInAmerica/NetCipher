@@ -12,6 +12,7 @@ build.xml
 # generated files
 bin/
 gen/
+build/
 
 # eclipse
 .settings
@@ -20,3 +21,9 @@ gen/
 
 # Local configuration file (sdk path, etc)
 local.properties
+
+# Gradle Cache
+.gradle/
+
+# Mac OS X
+.DS_Store
